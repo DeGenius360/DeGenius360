@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @DeGenius360
-- 👀 I’m interested in Web Development, Machine Learning and Cyber Security
-- 🌱 I’m currently learning App development with Flutter
-- 💞️ I’m looking to collaborate on developing an NLP AI trained with dataset collected from users interaction on social media sites
-- 📫 You can reach me with my email = degenius8@gmail.com
+- 👋 I am Maxwell
+- My major interests include web-app development, cyber-security, and occasionally dabbling in some AI
+- I guess with chatgpt everyone is an AI enthusiast now :)
+- 🌱 I’m currently a CS student
+- 💞️ I’m looking to collaborate on developing an NLP AI trained with dataset collected from a user's text history on a messaging app
+- 📫 www.linkedin.com/in/maxwell-agyemang-a08073242
+-
 
 <!---
 DeGenius360/DeGenius360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
