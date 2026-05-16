@@ -38,7 +38,7 @@ Long-term? I'd like to grow the startup, and eventually a Master's is on the car
 
 ## 🛠️ Tech I work with
 
-`Python` · `AI/LLM APIs` · `Cloud (AWS/GCP)` · `Security tooling` · `Markdown-everything`
+`Python` · `AI/LLM APIs` · `Cloud (Azure)` · `Security tooling` · `Markdown-everything`
 
 ---
 
